@@ -1,0 +1,104 @@
+body{
+  background-color: orange;
+  color: #fff;
+  text-align: center;
+}
+.nav-item{
+  position: relative;
+  margin-right: 5rem;
+}
+.gobackbtn{
+  position: relative;
+  /* bottom: 0%; */
+  /* right: 5%; */
+  margin: 2%;
+}
+.cards-section{
+  margin: 5% 0;
+}
+.card{
+  text-align: center;
+}
+.customersimg{
+  height: 120%;
+}
+.card1{
+  color: #000;
+  position: relative;
+  margin: 4% 10%;
+  border-radius: 5%;
+}
+.card2{
+  color: #000;
+  position: relative;
+  margin: 4%;
+  border-radius: 5%;
+}
+.card3{
+  color: #000;
+  position: relative;
+  margin: 4% 10%;
+  border-radius: 5%;
+}
+/*  transfer info */
+.transferinfocard{
+  text-align: center;
+  border-radius: 5%;
+  margin: 2% auto;
+  color: #000;
+}
+.transferhistorycard{
+  text-align: center;
+  border-radius: 10%;
+  margin: 8% auto;
+  color: #000;
+}
+.transfermoneyimg{
+  margin: 0 auto;
+  width: 30%;
+}
+.card-content{
+  text-align: center;
+  border-radius: 1%;
+  margin: 2%;
+ }
+.transferinfobtn{
+  margin-top: 10%;
+}
+.viewtransactionbtn{
+  margin: 2%;
+  /* position: relative; */
+  width: auto;
+  /* display: inline; */
+  /* right: 7%; */
+  /* bottom: 2%; */
+}
+/*               Customers.ejs                */
+.customers-info{
+  display: inline;
+}
+.customers-card{
+  margin: 4%;
+
+}
+.table{
+  margin-bottom: 0;
+}
+/* payment successful */
+.successimg{
+  width: 40%;
+}
+#footer{
+  background-color: #FAAD80;
+  color: black;
+  position: absolute;
+  width: 100%;
+  padding: 1%;
+  /* bottom: 0; */
+}
+.footer-link{
+  margin: 0 30px;
+}
+.footer-para{
+  margin: 1%;
+}
